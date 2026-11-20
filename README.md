@@ -19,7 +19,7 @@ Information Systems Engineering student at Universidad Nacional de Costa Rica, f
 | [Ecosystem Simulator](https://github.com/sebas-rodriguezh/Simulacion_de_ecosistema_cpp) | C++ | Predator-prey simulation using Singleton, Factory and Strategy patterns |
 | [Film Production Manager](https://github.com/sebas-rodriguezh/Proyecto_Peliculas_cpp) | C++ | Film studio management with templates, Strategy pattern and file persistence |
 | [Cargo Terminal Simulator](https://github.com/sebas-rodriguezh/Proyecto1_SO) | C + POSIX threads | Concurrent truck scheduling with FIFO and Round Robin |
-| [Courier Quest](https://github.com/sebas-rodriguezh/Courier_Quest_python) | Python + Pygame | Delivery game with A*, BFS, heaps and a CPU opponent |
+| [Courier Quest](https://github.com/sebas-rodriguezh/Courier_Quest.git) | Python + Pygame | Delivery game with A*, BFS, heaps and a CPU opponent |
 | [DASK DBA Console](https://github.com/arnaldojarab/ADMBASES_GROUP7) | PHP + MariaDB + Bash | Web console for monitoring, backups, query plans and CSV import/export |
 
 **Currently working on:** Silencio y Paz, an information system for a funeral services company built with .NET 8, Blazor and SQL Server (private repository).
